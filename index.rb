@@ -1,5 +1,5 @@
 require 'sinatra'
-require "sinatra/contrib"
+require "sinatra/content_for"
 
 set :port, 8081 #63343
 set :static, true
