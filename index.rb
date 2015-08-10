@@ -4,6 +4,6 @@ set :port, 8081 #63343
 set :static, true
 
 get '/' do
-  erb :hello_world
+  erb :example
 end
 
